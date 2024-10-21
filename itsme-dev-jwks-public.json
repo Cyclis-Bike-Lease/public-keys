@@ -1,0 +1,20 @@
+{
+  "keys": [
+    {
+      "kty": "RSA",
+      "n": "m9k0HztT9YdUehOYw5uXTtWLM9jhoKbeFzqkGAteIU3GJTRV9_v_uI_zJSxMqsEB-L4KRLqimWTEL7UpkgeAbAJthM0XqEP8Q_dtbsrNJS4G5H3zoqjfgLrQQZKJNEcQjQnrD4d3J1o6-eRdAHaSQR39oVXW7d3e0EXnYzWo2_DUwThlwi3PLXpBcsQheT7VNLiz2-9tJRxDHb2yew6uzmEfpxmzEzaQakCEdJAo8lqSCEnSf8aRI0Rxn9lZC3bcqSvQnK_h2ydpCB05Pg5ODRMlLVZefsI2Elx3AHg6lZI4gTNH6E2rjm_AfYivd9LCn6VdlTATkdqegRaHm08LCw",
+      "e": "AQAB",
+      "kid": "cyclis-dev-itsme-signing-public",
+      "use": "sig",
+      "alg": "RS256"
+    },
+    {
+      "kty": "RSA",
+      "n": "s14dk5W8xWkaT62Il2a4SMRAj-1aeh0s32S1iwf6jNBeeeihgwwUSNit7uOpqNgbeM35eSiVfF21pbCwHspAqW-mCqBmWTEuP3PAewbcjfjsO7Obp2atDhhiB7XJnIvSCWjMEnE801EDwUvCIH8I_vV1P5fwrWEGq6GWjAau_JJygmRNOLG3s5AXMOQKcj2f7CxdJFu4-RVVANgj7lquljgz06W3mM_zkTXGUo6Rm23aMr5xq9H4TJvoAO6N5SPjH39ENKqwZe_wiuohLkgnka_KmH7v6a5-UTbK0CPmprS0TjksqG6RmqOCi5hjc0JJiljpaKik5MoGXewhBehyWQ",
+      "e": "AQAB",
+      "kid": "cyclis-dev-itsme-encrypting-public",
+      "use": "enc",
+      "alg": "RS256"
+    }
+  ]
+}
