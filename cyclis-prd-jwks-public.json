@@ -1,0 +1,12 @@
+{
+  "keys": [
+    {
+      "kty": "RSA",
+      "n": "tAsrjd7tlEtFmHf_duXn2n3kGhfSXelMhE4DTpS1_giAnhwE5mAck9GCzPHg814tRtNo5UZyBr1BtZZ5z6HZXNB5xjJXSGbH8D91grhJOlJVupFKG7hUHwVyZ78GdD_zTglC2aQgGpaVHRjWkFadcg28dclshCxoituXs_6bwHSsbaFIjGg4cuxlT4LOISzGlC-1idknUI4vcm4EaXZxyo2gNca2m_uD8ImSFqmWlNalDr7nBRyTkH2Kw09q8t4B7sqOXDvXrpSy71WOivtvIG_hMjca-8uNeUMALOLz-6v303Tdodm0wmCgWbXbvi1jpWXTHuK2rHEDVx0o6gGVrQ",
+      "e": "AQAB",
+      "kid": "cyclis-prd-signing-public",
+      "use": "sig",
+      "alg": "RS256"
+    }
+  ]
+}
